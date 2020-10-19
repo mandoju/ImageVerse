@@ -1,6 +1,10 @@
 # ImageVerse
 
-This Project represents the ImageVerse. Imageverse is a web application that users can upload images and give likes and dislikes of other users. Currently this project is hosted at AWS.
+Published at : [http://imageverse.jorgerama.com.br](http://imageverse.jorgerama.com.br)
+
+This Project represents the ImageVerse. Imageverse is a web application that users can upload images and give likes and dislikes of other users. Currently this project is hosted at aws using S3 to host frontend and a ec2 instance.
+The documentation of each project is at each respective project ( like Api routes, setup, etc). 
+
 
 This project is divided in two parts:
 - [ImageVerse Frontend Web](https://github.com/mandoju/ImageVerse-front-web)
