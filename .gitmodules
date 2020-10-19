@@ -1,3 +1,6 @@
 [submodule "ImageVerse-backend-api"]
 	path = ImageVerse-backend-api
 	url = https://github.com/mandoju/ImageVerse-backend-api
+[submodule "ImageVerse-front-web"]
+	path = ImageVerse-front-web
+	url = https://github.com/mandoju/ImageVerse-front-web
