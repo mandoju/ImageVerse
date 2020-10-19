@@ -10,7 +10,7 @@ This project is divided in two parts:
 ## Project Structure
 This project has a google Oauth2 authentication to create users and AWS S3 to save the images.
 
-![Project Structure](https://raw.githubusercontent.com/mandoju/ImageVerse-backend-api/main/docs/arquiteture.png)
+![Project Structure](https://github.com/mandoju/ImageVerse/raw/main/docs/arquiteture.png)
 
 
 ## Programing Technologies
